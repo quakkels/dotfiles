@@ -1,0 +1,4 @@
+xrdb ~/.Xresources
+
+! starting i3
+exec i3
