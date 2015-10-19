@@ -47,3 +47,5 @@ set softtabstop=4
 set expandtab
 set smarttab
 syntax on
+
+set hlsearch    " highlight search terms
